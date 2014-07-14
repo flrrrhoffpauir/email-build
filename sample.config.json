@@ -1,0 +1,7 @@
+{
+	"litmus": {
+		"domain": "companyname",
+		"username": "foobar",
+		"password": "password1234"
+	}
+}

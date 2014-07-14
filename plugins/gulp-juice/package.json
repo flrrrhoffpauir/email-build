@@ -1,0 +1,23 @@
+{
+  "name": "gulp-juice-plugin",
+  "version": "0.0.1",
+  "description": "Inliner for gulp",
+  "main": "./index.js",
+  "keywords": [
+    "gulpplugin",
+    "juice",
+    "gulp"
+  ],
+  "author": "Smith & Robot",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "gulp": "~3.5.2",
+    "juice": "~0.4.0",
+    "jsdom": "~0.10.1"
+  },
+  "dependencies": {
+    "gulp-util": "~2.2.14",
+    "through2": "~0.4.1",
+    "juice": "~0.4.0"
+  }
+}

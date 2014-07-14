@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<test_set>
+  <applications type="array">
+    <application>
+      <code>hotmail</code>
+    </application>
+    <application>
+      <code>gmail</code>
+    </application>
+    <application>
+      <code>notes8</code>
+    </application>
+  </applications>
+  <save_defaults>false</save_defaults>
+  <use_defaults>false</use_defaults>
+  <email_source>
+     <body><![CDATA[]]></body>
+     <subject></subject>
+  </email_source>
+</test_set>
